@@ -1,99 +1,55 @@
-# 🤖 Machine Learning
+<div align="center">
 
-Welcome to my **Machine Learning** repository! 🚀
+# 🤖 MACHINE LEARNING
 
-This repository contains my learning journey, practical implementations, Jupyter Notebooks, datasets, exercises, notes, and Machine Learning projects using Python.
+### My Machine Learning Learning Journey 🚀
 
-I will continuously update this repository as I learn and build new Machine Learning concepts and projects.
+<p>
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+</p>
 
----
+<p>
+  <b>Learning • Practicing • Building • Improving</b>
+</p>
 
-## 📚 Topics Covered
-
-This repository will cover topics such as:
-
-- Machine Learning Fundamentals
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Feature Selection
-- Supervised Learning
-- Unsupervised Learning
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
-- Machine Learning Projects
+</div>
 
 ---
 
-## 📈 Algorithms
+## 🧠 About This Repository
 
-As I progress, I will add implementations of algorithms such as:
+Welcome to my **Machine Learning repository**.
 
-### Regression
-- Simple Linear Regression
-- Multiple Linear Regression
-- Polynomial Regression
+This repository documents my journey of learning Machine Learning with Python through:
 
-### Classification
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Decision Tree
-- Random Forest
-- Support Vector Machine (SVM)
-- Naive Bayes
+- 📚 Concepts & Notes
+- 💻 Python Programs
+- 📓 Jupyter Notebooks
+- 📊 Real-world Datasets
+- 🧪 Practice Exercises
+- 🚀 Machine Learning Projects
 
-### Unsupervised Learning
-- K-Means Clustering
-- Hierarchical Clustering
-- Principal Component Analysis (PCA)
+> 🔄 **This repository is continuously updated as I learn new concepts and build new projects.**
 
 ---
 
-## 🛠️ Technologies & Tools
-
-- 🐍 Python
-- 📓 Jupyter Notebook
-- 🐼 Pandas
-- 🔢 NumPy
-- 📊 Matplotlib
-- 🎨 Seaborn
-- 🤖 Scikit-learn
-- 💻 VS Code
-- 🌐 Git & GitHub
-
----
-
-## 📂 Repository Structure
-
-The repository is organized into different sessions, topics, datasets, exercises, and projects.
+## 🗺️ Learning Roadmap
 
 ```text
-Machine-learning-/
-│
-├── session1/
-│   ├── notebooks
-│   ├── datasets
-│   └── notes
-│
-├── session2/
-│   ├── notebooks
-│   ├── datasets
-│   └── notes
-│
-├── session3/
-│   ├── notebooks
-│   ├── datasets
-│   └── notes
-│
-├── projects/
-│   ├── project-1/
-│   ├── project-2/
-│   └── ...
-│
-├── datasets/
-│
-├── notes/
-│
-└── README.md
+                    MACHINE LEARNING
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+     SUPERVISED      UNSUPERVISED     REINFORCEMENT
+          │                │                │
+      ┌───┴───┐        ┌───┴───┐        Rewards
+      │       │        │       │        & Actions
+ Regression Classification Clustering  Learning
+      │       │        │
+      ▼       ▼        ▼
+ Linear    Logistic   K-Means
+ Regression Regression  PCA
